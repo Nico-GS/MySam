@@ -44,7 +44,7 @@ key : driverId & Value : XXXXXX
 <h3>Start Trip</h3>
 
 ```bash
-localhost:8080/api/startTrip/?tripId=
+localhost:8080/api/startTrip?tripId=
 ```
 
 Params :
@@ -57,7 +57,7 @@ key : tripId & Value : XXXXXX
 <h3>End Trip</h3>
 
 ```bash
-localhost:8080/api/endTrip/?tripId=
+localhost:8080/api/endTrip?tripId=
 ```
 
 Params :
